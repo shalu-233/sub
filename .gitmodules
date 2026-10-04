@@ -1,0 +1,9 @@
+[submodule "services/orderservices"]
+	path = services/orderservices
+	url = https://github.com/shalu-233/orderservices.git
+[submodule "services/identityservices"]
+	path = services/identityservices
+	url = https://github.com/shalu-233/identityservices.git
+[submodule "deployments/deployment"]
+	path = deployments/deployment
+	url = https://github.com/shalu-233/deployment.git
